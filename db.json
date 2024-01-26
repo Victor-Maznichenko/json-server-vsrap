@@ -1,12 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Po112323st 1" },
-    { "id": 2, "title": "Pos121233t 2" },
-    { "id": 3, "title": "Po123123st 3" }
+  "collections": [
+    {
+      "id": 0,
+      "title": "XMAS PACK",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 0,
+      "authorID": 0
+    }
   ],
   "comments": [
-    { "id": 1, "body": "so", "postId": 1 },
-    { "id": 2, "body": "mext", "postId": 1 }
+    {
+      "id": 1,
+      "body": "so",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "mext",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "Victor"
