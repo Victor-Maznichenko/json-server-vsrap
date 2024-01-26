@@ -3,11 +3,242 @@
     {
       "id": 0,
       "title": "XMAS PACK",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/vsrap.jpg?raw=true",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 0,
+      "date": 1706261482707
+    },
+    {
+      "id": 1,
+      "title": "Dead blonde",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/dead_blond.png?raw=true",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 1,
+      "date": 1706261482707
+    },
+    {
+      "id": 2,
+      "title": "SC WORLDWIDE",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/CMH.png?raw=true",
+      "bannerPhoto": "", 
+      "description": "Новая масштабная коллекция от CMH",
+      "popularity": 100,
+      "authorID": 2,
+      "date": 1706261482707
+    },
+    {
+      "id": 3,
+      "title": "UNIVERSITY",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/vsrap.jpg?raw=true",
+      "bannerPhoto": "", 
+      "description": "Drop pt.2",
+      "popularity": 100,
+      "authorID": 0,
+      "date": 1706261482707
+    },
+    {
+      "id": 4,
+      "title": "Лиза Мадрид",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Коллекция Heartless",
+      "popularity": 100,
+      "authorID": 3,
+      "date": 1706261482707
+    },
+    {
+      "id": 5,
+      "title": "ЮГ 404",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новая коллекция",
+      "popularity": 100,
+      "authorID": 4,
+      "date": 1706261482707
+    },
+    {
+      "id": 6,
+      "title": "BOOKER",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новый дроп",
+      "popularity": 100,
+      "authorID": 5,
+      "date": 1706261482707
+    },
+    {
+      "id": 7,
+      "title": "ANTIHYPE",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новые премиальные вещи",
+      "popularity": 100,
+      "authorID": 6,
+      "date": 1706261482707
+    },
+    {
+      "id": 8,
+      "title": "mzlff",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Первая коллекция от Мазеллова",
+      "popularity": 100,
+      "authorID": 7,
+      "date": 1706261482707
+    },
+    {
+      "id": 9,
+      "title": "GSPD",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новая большая коллекция",
+      "popularity": 100,
+      "authorID": 8,
+      "date": 1706261482707
+    },
+    {
+      "id": 10,
+      "title": "LIL PSINA",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новая большая коллекция от Даши Каплан",
+      "popularity": 100,
+      "authorID": 9,
+      "date": 1706261482707
+    },
+    {
+      "id": 11,
+      "title": "LIDA",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Новая коллекция Дак Тейлс",
+      "popularity": 100,
+      "authorID": 10,
+      "date": 1706261482707
+    },
+    {
+      "id": 12,
+      "title": "SATAN CLUB",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/CMH.png?raw=true",
+      "bannerPhoto": "", 
+      "description": "Новая коллекция от CMH",
+      "popularity": 100,
+      "authorID": 2,
+      "date": 1706261482707
+    },
+    {
+      "id": 13,
+      "title": "SNAILKICK",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "Официальный мерч",
+      "popularity": 100,
+      "authorID": 11,
+      "date": 1706261482707
+    },
+    {
+      "id": 14,
+      "title": "SAMURAI BEAR",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "by Free Flow Flava",
+      "popularity": 100,
+      "authorID": 12,
+      "date": 1706261482707
+    },
+    {
+      "id": 15,
+      "title": "",
       "previewPhoto": "",
       "bannerPhoto": "", 
       "description": "",
-      "popularity": 0,
-      "authorID": 0
+      "popularity": 100,
+      "authorID": 13,
+      "date": 1706261482707
+    },
+    {
+      "id": 16,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 14,
+      "date": 1706261482707
+    },
+    {
+      "id": 17,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 15,
+      "date": 1706261482707
+    },
+    {
+      "id": 18,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 16,
+      "date": 1706261482707
+    },
+    {
+      "id": 19,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 17,
+      "date": 1706261482707
+    },
+    {
+      "id": 20,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 18,
+      "date": 1706261482707
+    },
+    {
+      "id": 21,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 19,
+      "date": 1706261482707
+    },
+    {
+      "id": 22,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 20,
+      "date": 1706261482707
+    },
+    {
+      "id": 23,
+      "title": "",
+      "previewPhoto": "",
+      "bannerPhoto": "", 
+      "description": "",
+      "popularity": 100,
+      "authorID": 21,
+      "date": 1706261482707
     }
   ],
   "comments": [
