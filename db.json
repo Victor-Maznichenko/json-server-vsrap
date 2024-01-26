@@ -63,7 +63,7 @@
     {
       "id": 6,
       "title": "BOOKER",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/booker.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новый дроп",
       "popularity": 100,
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "title": "ANTIHYPE",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/antihype.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новые премиальные вещи",
       "popularity": 100,
@@ -83,7 +83,7 @@
     {
       "id": 8,
       "title": "mzlff",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/mzlff.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Первая коллекция от Мазеллова",
       "popularity": 100,
@@ -93,7 +93,7 @@
     {
       "id": 9,
       "title": "GSPD",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/gspd.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новая большая коллекция",
       "popularity": 100,
@@ -103,7 +103,7 @@
     {
       "id": 10,
       "title": "LIL PSINA",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/kaplan.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новая большая коллекция от Даши Каплан",
       "popularity": 100,
@@ -113,7 +113,7 @@
     {
       "id": 11,
       "title": "LIDA",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/lida.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новая коллекция Дак Тейлс",
       "popularity": 100,
