@@ -43,7 +43,7 @@
     {
       "id": 4,
       "title": "Лиза Мадрид",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/liza.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Коллекция Heartless",
       "popularity": 100,
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "title": "ЮГ 404",
-      "previewPhoto": "",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/youg_404.jpg?raw=true",
       "bannerPhoto": "", 
       "description": "Новая коллекция",
       "popularity": 100,
